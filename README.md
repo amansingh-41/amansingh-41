@@ -2,7 +2,7 @@
 
 📍 Based in India | 🌐 Open to global collaborations  
 📧 Reach me at: singhaman3117@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aman-singh-business-analyst/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aman-singh-business-analyst/)
 
 ---
 
