@@ -24,8 +24,8 @@ I'm a results-driven **Project Coordinator and Business Analyst** with over **5 
 - Pre-sales & Client Onboarding
 
 ### 💡 Tools & Platforms
-- **Project Tools**: Jira, Confluence, Trello  
-- **Documentation & Design**: Miro, Visio, Google Suite  
+- **Project Tools**: Jira, Confluence, Trello, Basecamp, Asana, ClickUp  
+- **Documentation & Design**: Miro, Visio, Figma, SQL, Google Suite  
 - **Data & Analytics**: Power BI, Excel (Advanced), Google Sheets  
 - **Marketing Tools**: Google Ads, SEO (On-page/Off-page), Social Media Management
 
@@ -33,8 +33,8 @@ I'm a results-driven **Project Coordinator and Business Analyst** with over **5 
 
 ## 🏢 Work Experience Highlights
 
-### **Laitkor Labs** – *Project Coordinator*  
-- Coordinated freelance teams across projects, ensured timely delivery  
+### **Laitkor Labs** – *Senior Project Coordinator*  
+- Lead and manage expert IT professionals across multiple concurrent projects. 
 - Implemented workflow improvements, improving task efficiency by 15%  
 - Contributed to pre-sales efforts and led client onboarding
 
@@ -44,12 +44,14 @@ I'm a results-driven **Project Coordinator and Business Analyst** with over **5 
 - Mentored junior analysts and standardized documentation practices
 
 ### **eShop Genius** – *Business Analyst*  
-- Enhanced project delivery speed using Agile practices  
 - Boosted project alignment by 40% through better stakeholder communication
+- Led agile meetings and closed 35+ user stories within 6 months.
+- Increased on-time project delivery by 25% through the application of Scrum methodologies.
 
 ### **Singsys Software** – *Business Analyst / Digital Marketer*  
 - Created BRDs, FRDs, and visual process maps  
 - Delivered a 25% increase in website traffic via SEO and paid campaigns
+- Reduced cross-team misunderstandings by 15% via improved documentation and diagrams
 
 ---
 
