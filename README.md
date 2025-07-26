@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Aman Kumar Singh
+# 👋 Hi there, I'm a Tech Enthusiast
 
-🚀 **Sr. Project Coordinator | Sr. Business Analyst | Agile Practitioner**  
 📍 Based in India | 🌐 Open to global collaborations  
 📧 Reach me at: singhaman3117@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aman-singh-business-analyst/)
