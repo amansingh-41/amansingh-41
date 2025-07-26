@@ -57,6 +57,7 @@ I'm a results-driven **Project Coordinator and Business Analyst** with over **5 
 
 - **PMI-ACP® (Agile Certified Practitioner) – Prep Course** – [LinkedIn Learning](https://www.linkedin.com/learning/certificates/25b8206005bc2f3fcbdc1464f568b5661a322ef67ea12e25a748e431dcc4a4a5)  
 - **Microsoft Power BI for Business Intelligence** – [Udemy](https://www.udemy.com/certificate/UC-de1b73e9-4da5-4065-9e97-b037893666d9/)
+- **Excel Data Visualization: Designing Custom Visualizations** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/88fb099e49c1f8bff8b53d2c6b07cb8d9ae83374d1d4a837894d5324014fcc5c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BHz8GJU%2BGThaDYntEft3aAg%3D%3D)
 
 ---
 
