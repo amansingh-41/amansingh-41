@@ -8,7 +8,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a results-driven **Project Coordinator and Business Analyst** with over **6 years of experience** helping businesses bridge the gap between strategy and technology. I specialize in aligning IT solutions with business goals, managing cross-functional teams, and delivering high-quality digital projects in Agile environments.
+I'm a results-driven **Project Coordinator and Business Analyst** with over **7 years of experience** helping businesses bridge the gap between strategy and technology. I specialize in aligning IT solutions with business goals, managing cross-functional teams, and delivering high-quality digital projects in Agile environments.
 
 ---
 
